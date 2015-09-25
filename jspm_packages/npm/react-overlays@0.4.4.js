@@ -1,0 +1,1 @@
+module.exports = require("npm:react-overlays@0.4.4/lib/index");
